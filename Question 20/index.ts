@@ -1,0 +1,2 @@
+let cities:string[] = ["Rawal Pindi", "Blochistan", "Lahore", "Islamabad", "Karachi", "Quetta", "Sakkhar"];
+console.log(cities);
