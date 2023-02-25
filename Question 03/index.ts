@@ -1,0 +1,4 @@
+let personName = "Moaz malik";
+console.log(personName.toLowerCase());
+console.log(personName.toUpperCase());
+console.log(personName.replace(/\b(\w)/g, s => s.toUpperCase()));
